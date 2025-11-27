@@ -26,6 +26,7 @@ Each participant will:
 ---
 
 ## 🛠 Steps to Participate
+### **Step 1: Clone this repo**
 #### **Option A: Using RStudio Interface**
 1. Go to the GitHub repository page.
 2. Click the green **Code** button and copy the HTTPS link (e.g., `https://github.com/username/repo.git`).
