@@ -6,3 +6,6 @@ v <- 1:15
 sum_v <- sum(v)  # Sum of numbers from 1 to 15
 
 # ---- Add your own calculation below and annotate it! ----
+
+# SF: This will calculate the mean of those numbers
+mean_v <- mean(v) #it's the mean of those numbers, yes it is.  
