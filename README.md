@@ -94,3 +94,4 @@ In `README.md`:
 ## 👥 Contributors
 - Mailton Vasconcelos: Created the repo, tutorial and initial script.
 - Seán Farrell: Added a mean calculation 
+- Enya Nordon: Added a median calculation.

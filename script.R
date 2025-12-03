@@ -9,3 +9,6 @@ sum_v <- sum(v)  # Sum of numbers from 1 to 15
 
 # SF: This will calculate the mean of those numbers
 mean_v <- mean(v) #it's the mean of those numbers, yes it is.  
+
+#EN: This will calculate the median of the numbers
+median_v <- median(v) #calculates the median!
