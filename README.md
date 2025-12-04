@@ -95,3 +95,4 @@ In `README.md`:
 - Mailton Vasconcelos: Created the repo, tutorial and initial script.
 - Seán Farrell: Added a mean calculation 
 - Enya Nordon: Added a median calculation.
+- Jacob Kennedy: added upper and lower quartile calculations for vector "v"

@@ -12,3 +12,8 @@ mean_v <- mean(v) #it's the mean of those numbers, yes it is.
 
 #EN: This will calculate the median of the numbers
 median_v <- median(v) #calculates the median!
+
+#JK: This calculates the upper and lower quartiles of vector "v"
+
+Q1_v <- quantile(v, 0.25)
+Q3_v <- quantile(v, 0.75) 
